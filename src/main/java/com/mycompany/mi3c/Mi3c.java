@@ -19,6 +19,7 @@ public class Mi3c
     System.out.println ("nilai max adalah : " +(a)); 
     }else {
     System.out.println ("nilai max adalah : " +(b)); 
+    System.out.println ("nilai max adalah : " +(b)); 
     }
     }
 }
